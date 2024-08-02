@@ -1,3 +1,6 @@
-requests~=2.32.0
-python-json-logger~=2.0.4
-python-dateutil~=2.8.2
+my_package
+pytest
+python_dateutil
+python_json_logger
+Requests
+requests_mock
